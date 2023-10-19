@@ -1,0 +1,60 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+h1 {
+    color: #333;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Estilo del footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+/* ... (otros estilos) ... */
+
+/* Estilo de los íconos de redes sociales */
+.social-icons .fab {
+    font-size: 30px;
+    color: #fff;
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+
+/* Efecto hover para los íconos */
+.social-icons .fab:hover {
+    color: #007BFF;
+}

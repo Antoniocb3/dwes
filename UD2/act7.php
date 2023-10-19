@@ -19,4 +19,7 @@ echo "<br>";
 echo "Incrementa el valor en 1. Valor ahora " . $valor += 1;
 echo "<br>";
 echo "Decrementa el valor en 1. Valor ahora " . $valor -= 1;
+
+echo '<a href="https://github.com/Antoniocb3/dwes/blob/main/UD2/act7.php">Código en GitHub</a>';
+
 ?>

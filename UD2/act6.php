@@ -17,4 +17,6 @@ echo $x . ' / ' . $y . ' = ' . $x / $y;
 echo '<br>';
 echo $x . ' % ' . $y . ' = ' . $x % $y;
 
+echo '<a href="https://github.com/Antoniocb3/dwes/blob/main/UD2/act6.php">Código en GitHub</a>';
+
 ?>

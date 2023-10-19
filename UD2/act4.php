@@ -22,6 +22,8 @@ print "<b>El uso de 'print' y 'printf' es el siguiente:</b>";
 print "<br>";
 printf("<b>print</b> es una función que se utiliza para imprimir una sola cadena de texto en la pantalla y <b>
 printf</b> es una función que se utiliza para formatear una cadena de texto y luego imprimir el resultado en la pantalla.");
-print "</p>"
+print "</p>";
+echo '<a href="https://github.com/Antoniocb3/dwes/blob/main/UD2/act4.php">Código en GitHub</a>';
+
 
 ?>
