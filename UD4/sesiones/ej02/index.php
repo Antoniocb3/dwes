@@ -1,3 +1,17 @@
+<?php 
+/**
+ * 
+ * 
+ */
+
+
+session_start();
+
+$nombre = $_SESSION["nombre"] = 'Antonio';
+$apellido = $_SESSION["apellido"] = 'Carmona';
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,9 +20,7 @@
     <title>Antonio Carmona Bascón</title>
 </head>
 <body>
-    <?php
-    echo"Hola Mundo";
-    ?>
-    <p>Código en <a href=https://github.com/Antoniocb3/dwes/blob/main/UD1/pr1/pr1.php>GITHUB</a></p>
+    <p><?php echo $nombre ?></p>
+    <p><?php echo $apellido ?></p>
 </body>
 </html>

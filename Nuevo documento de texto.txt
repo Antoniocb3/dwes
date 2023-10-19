@@ -1,0 +1,7 @@
+array con número aleatorio en vez de 0,1,2,3,4,5 --> [18,65,41,23,45]
+
+
+
+formato:
+NIVEL DIFIFICULTAD 1
+VERBO IRREGULAR: verbo | ___ | verbo
