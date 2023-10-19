@@ -42,7 +42,7 @@ $imagen = "Fotocurriculum.jpg"
             <li><img src="<?php echo $imagen ?>" alt="Foto curriculum" width="150" height="170"></li>
         </ul>
     </div>
-    <p>Código en <a href=https://github.com/Antoniocb3/dwes/blob/main/UD2/act2.php>GITHUB</a></p>
+    <p>Código en <a href=https://github.com/Antoniocb3/dwes/blob/main/UD2/act2/act2.php>GITHUB</a></p>
 
 </body>
 
